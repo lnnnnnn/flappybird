@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Background.png</file>
+        <file>Images/Birds.png</file>
+        <file>Images/BlackMask.png</file>
+        <file>Images/Buttons.png</file>
+        <file>Images/Ground.png</file>
+        <file>Images/Hint.png</file>
+        <file>Images/pipe1.png</file>
+        <file>Images/pipe2.png</file>
+        <file>Images/ScoreBoard.png</file>
+        <file>Images/ScoreFont.png</file>
+        <file>Images/ScoreFontMini.png</file>
+        <file>Images/Statistics.png</file>
+        <file>Images/WhiteMask.png</file>
+        <file>Images/bird1.png</file>
+        <file>Images/bird2.png</file>
+        <file>Images/bird3.png</file>
+        <file>Images/FlappyBird.ico</file>
+    </qresource>
+</RCC>
